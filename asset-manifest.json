@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/ClickyGame/static/css/main.8b6d2bd7.chunk.css",
-    "main.js": "/ClickyGame/static/js/main.6d5d82c1.chunk.js",
-    "main.js.map": "/ClickyGame/static/js/main.6d5d82c1.chunk.js.map",
-    "runtime-main.js": "/ClickyGame/static/js/runtime-main.a8c8c49b.js",
-    "runtime-main.js.map": "/ClickyGame/static/js/runtime-main.a8c8c49b.js.map",
-    "static/js/2.a9a78445.chunk.js": "/ClickyGame/static/js/2.a9a78445.chunk.js",
-    "static/js/2.a9a78445.chunk.js.map": "/ClickyGame/static/js/2.a9a78445.chunk.js.map",
-    "index.html": "/ClickyGame/index.html",
-    "precache-manifest.53ee592a268203d194f661249872d41a.js": "/ClickyGame/precache-manifest.53ee592a268203d194f661249872d41a.js",
-    "service-worker.js": "/ClickyGame/service-worker.js",
-    "static/css/main.8b6d2bd7.chunk.css.map": "/ClickyGame/static/css/main.8b6d2bd7.chunk.css.map",
-    "static/js/2.a9a78445.chunk.js.LICENSE": "/ClickyGame/static/js/2.a9a78445.chunk.js.LICENSE"
+    "main.css": "/clickygame/static/css/main.d1b05096.chunk.css",
+    "main.js": "/clickygame/static/js/main.63d525f9.chunk.js",
+    "main.js.map": "/clickygame/static/js/main.63d525f9.chunk.js.map",
+    "runtime-main.js": "/clickygame/static/js/runtime-main.9a0c2231.js",
+    "runtime-main.js.map": "/clickygame/static/js/runtime-main.9a0c2231.js.map",
+    "static/js/2.9aca276e.chunk.js": "/clickygame/static/js/2.9aca276e.chunk.js",
+    "static/js/2.9aca276e.chunk.js.map": "/clickygame/static/js/2.9aca276e.chunk.js.map",
+    "index.html": "/clickygame/index.html",
+    "precache-manifest.8afa8072bee27d314beec3a7ed3e9351.js": "/clickygame/precache-manifest.8afa8072bee27d314beec3a7ed3e9351.js",
+    "service-worker.js": "/clickygame/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/clickygame/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9aca276e.chunk.js.LICENSE.txt": "/clickygame/static/js/2.9aca276e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/clickygame/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8c8c49b.js",
-    "static/js/2.a9a78445.chunk.js",
-    "static/css/main.8b6d2bd7.chunk.css",
-    "static/js/main.6d5d82c1.chunk.js"
+    "static/js/runtime-main.9a0c2231.js",
+    "static/js/2.9aca276e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.63d525f9.chunk.js"
   ]
 }
